@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "422185145028",
+    "firebase_url": "https://capstonedesign1-310001-default-rtdb.firebaseio.com",
+    "project_id": "capstonedesign1-310001",
+    "storage_bucket": "capstonedesign1-310001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422185145028:android:08a893220cad60e6992f91",
+        "android_client_info": {
+          "package_name": "com.example.distancecheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422185145028-80a4kpp57uinmn2bl1rl5536i7q9ob4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwryq6MNrdamJdP5vpK0mfUTRjHQzWO6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422185145028-80a4kpp57uinmn2bl1rl5536i7q9ob4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
